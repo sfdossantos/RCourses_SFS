@@ -9,3 +9,6 @@ Links for R Courses, books, videos and articles on Internet
 
 ### How To Create Your Google API Key On Google Cloud Platform
   https://www.youtube.com/watch?v=brCkpzAD0gc
+
+#### Getting Started With Google APIs
+  https://www.youtube.com/watch?v=I5ili_1G0Vk&t=3s
