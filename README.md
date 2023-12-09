@@ -14,5 +14,5 @@ Links for R Courses, books, videos and articles on Internet
 ##### It shows how to create a project and associate a key (credentials)
   https://www.youtube.com/watch?v=I5ili_1G0Vk&t=3s
 
-#### Sending Email from R with attachments | Configuring Gmail API | Package GmailR
-  https://www.youtube.com/watch?v=xJYSAmorAsE
+#### How to send email with R and Gmail
+  https://www.youtube.com/watch?v=ivP4zUIb6Sw
