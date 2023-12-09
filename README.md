@@ -13,3 +13,6 @@ Links for R Courses, books, videos and articles on Internet
 #### Getting Started With Google APIs
 ##### It shows how to create a project and associate a key (credentials)
   https://www.youtube.com/watch?v=I5ili_1G0Vk&t=3s
+
+#### Sending Email from R with attachments | Configuring Gmail API | Package GmailR
+  https://www.youtube.com/watch?v=xJYSAmorAsE
