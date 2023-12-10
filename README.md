@@ -19,5 +19,4 @@ Links for R Courses, books, videos and articles on Internet
 
 #### Get API data with R
   Article: https://www.infoworld.com/article/3434627/get-api-data-with-r.html
-  
   youtube.com/watch?v=tlaJf0CHbFE
