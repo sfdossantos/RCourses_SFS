@@ -16,3 +16,8 @@ Links for R Courses, books, videos and articles on Internet
 
 #### How to send email with R and Gmail
   https://www.youtube.com/watch?v=ivP4zUIb6Sw
+
+#### Get API data with R
+  Article: https://www.infoworld.com/article/3434627/get-api-data-with-r.html
+  
+  
